@@ -1,0 +1,24 @@
+
+1001,The Alchemist,Paulo Coelho,Available
+1002,To Kill a Mockingbird,Harper Lee,Borrowed
+1003,1984,George Orwell,Available
+1004,Pride and Prejudice,Jane Austen,Available
+1005,The Great Gatsby,F. Scott Fitzgerald,Borrowed
+1006,The Catcher in the Rye,J.D. Salinger,Available
+1007,Brave New World,Aldous Huxley,Borrowed
+1008,The Hobbit,J.R.R. Tolkien,Available
+1009,Fahrenheit 451,Ray Bradbury,Available
+1010,The Kite Runner,Khaled Hosseini,Borrowed
+1011,Wings of Fire,A.P.J. Abdul Kalam,Available
+1012,The White Tiger,Aravind Adiga,Available
+1013,Sapiens,Yuval Noah Harari,Borrowed
+1014,The Book Thief,Markus Zusak,Available
+1015,Life of Pi,Yann Martel,Available
+1016,The Da Vinci Code,Dan Brown,Borrowed
+1017,Atomic Habits,James Clear,Available
+1018,The Monk Who Sold His Ferrari,Robin Sharma,Available
+1019,Animal Farm,George Orwell,Available
+1020,Rich Dad Poor Dad,Robert T. Kiyosaki,Borrowed
+1021,Harry Potter 1,J.K. Rowling,Borrowed
+1022,Harry Potter 2,J.K. Rowling,Borrowed
+1033,Dune,Frank Herbert,Availiable
